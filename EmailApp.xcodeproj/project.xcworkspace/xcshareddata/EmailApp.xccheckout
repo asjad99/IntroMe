@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>31B29027-C3E2-4B81-970A-84AC92473964</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EmailApp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BF7751A2-F176-4C86-969F-5A2BA98401CC</key>
+		<string>https://github.com/halfmoonlabs/sandbox.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>please_meet/ios/EmailApp/EmailApp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BF7751A2-F176-4C86-969F-5A2BA98401CC</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/halfmoonlabs/sandbox.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BF7751A2-F176-4C86-969F-5A2BA98401CC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BF7751A2-F176-4C86-969F-5A2BA98401CC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sandbox</string>
+		</dict>
+	</array>
+</dict>
+</plist>
